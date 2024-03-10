@@ -20,10 +20,6 @@ The game of checkers is considered a complicated game with <img src="/tex/dbab82
 </table>
 
 
-## References
-
-1. Two player draughts game template has been taken from [Pygame-Checkers](https://github.com/everestwitman/Pygame-Checkers/)
-
 ## Contributing
 
 Found a bug? Create an **[issue](https://github.com/Hsankesara/Draughts-AI/issues/new)**.
