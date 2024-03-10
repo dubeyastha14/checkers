@@ -1,4 +1,4 @@
-# Draughts-AI
+# CHECKERS GAMING
 
 ## Introduction
 
